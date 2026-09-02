@@ -8,6 +8,8 @@ public class Main {
 
         
         System.out.println("Empieza");
+        System.out.println("Empieza2");
+        
         System.out.println("Ingrese el valor de A:");
         a = Integer.parseInt(br.readLine());
         System.out.println("Ingrese el valor de B:");
