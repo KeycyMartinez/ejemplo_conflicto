@@ -6,6 +6,8 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int a, b, c;
 
+        
+        System.out.println("Empieza");
         System.out.println("Ingrese el valor de A:");
         a = Integer.parseInt(br.readLine());
         System.out.println("Ingrese el valor de B:");
